@@ -1,1 +1,1 @@
-ecommerce-website-by-html-css-js.vercel.app
+https://ecommerce-website-by-html-css-js.vercel.app/
